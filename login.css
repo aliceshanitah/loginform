@@ -1,4 +1,5 @@
 .fa{
+    padding-top: 20px;
     color: white;
      font-size: 50px;
 }
@@ -20,9 +21,7 @@ body{
     border-radius: 25px;
     margin-bottom: 20px;
 }
-a{
-padding-top: 20px;
-}
+
 h4{
     margin-top: 20px;
 }
